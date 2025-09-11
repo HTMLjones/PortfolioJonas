@@ -1,0 +1,98 @@
+h1 {
+    color:white;
+    margin-top: 100px;
+    font-size: 70px;
+    text-shadow: lightblue 3.5px 3.5px 2px;
+}
+
+.sectionFULL {
+    background-image: url("https://www.metropolitan-touring.com/wp-content/uploads/2023/03/Peru-Machhu-Picchu.webp");
+}
+
+
+p {
+    color:white;
+    margin: 20px auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px;
+    max-width: 400px;
+    padding: 10px;
+    background-color: #b5b3b3;
+    border-radius: 5px;
+    cursor: not-allowed;
+}
+
+p:hover {
+    zoom: 40px;
+}
+
+nav {
+    background-color: #572222;
+    padding: 10px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    width: 95%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a {
+    color:white;
+    text-shadow: black 3px 3px 1px;
+}
+
+main {
+display:flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.picture1 {
+    display:block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+
+.picture2 {
+    display:block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+    border: 2px solid white;
+
+}
+
+p {
+    border: 2px solid white;
+}
+
+.section1 {
+    background-color: #2d4026;
+    margin-bottom:200px;
+    width:450px;
+    border-radius: 20px;
+    box-shadow: -4px 5px 5px 4px black;
+}
+
+.section2 {
+    background-color: #2d4026;
+    margin-bottom: 140px;
+    width: 450px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 5px 2px black;
+}
+
+.strong1 {
+    text-shadow: black 5px 2px 5px;
+}
+
+.gul {
+    background-color: yellow;
+}
