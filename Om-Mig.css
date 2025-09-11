@@ -7,10 +7,11 @@ h1 {
 
 .sectionFULL {
     background-image: url("https://www.metropolitan-touring.com/wp-content/uploads/2023/03/Peru-Machhu-Picchu.webp");
+    width:100%
 }
 
 
-p {
+.sectionFULL p {
     color:white;
     margin: 20px auto;
     margin-top: 30px;
@@ -69,7 +70,7 @@ align-items: center;
 
 }
 
-p {
+p .section1 .section2 {
     border: 2px solid white;
 }
 
@@ -94,5 +95,16 @@ p {
 }
 
 .gul {
-    background-color: yellow;
+    background-color: #5778b6;
+    width:100%;
+    Font: Arial;
+    margin: auto;
+}
+
+.ChatGPT {
+    list-style-type: none;
+}
+
+.gul p {
+    width:800px;
 }
